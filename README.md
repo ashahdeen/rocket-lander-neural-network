@@ -1,6 +1,6 @@
 # rocket-lander-neural-network
 
-CE889 Artificial Neural Networks — Asha Deen (2501218), Autumn 2025
+CE889 Artificial Neural Networks 
 
 ---
 
