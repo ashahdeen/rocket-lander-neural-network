@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+rossmann_env/
+.ipynb_checkpoints/
+.DS_Store
+rossmann-store-sales/train.csv
+rossmann-store-sales/train_cl.csv
+rossmann-store-sales/train_cleaned.csv
+rossmann-store-sales/.venv/
+rossmann-store-sales/rossmann_env/
